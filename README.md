@@ -1,0 +1,2 @@
+# MyNetListView
+listview 的高度封装demo,用于统一app下拉刷新和加载更多的风格,并最大程度减少对具体listview或recycleview组件的依赖
